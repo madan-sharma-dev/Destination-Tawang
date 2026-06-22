@@ -1,0 +1,36 @@
+# Destination Tawang
+
+> Destination Tawang provides local taxi services, Tawang sightseeing support, and customized Arunachal Pradesh tour packages for travelers visiting mountain passes, lakes, waterfalls, valleys, monasteries, and nearby destinations.
+
+Destination Tawang is a travel and taxi service focused on safe, comfortable mountain journeys around Tawang, Arunachal Pradesh. The website is intended for tourists, families, groups, and adventure travelers looking for reliable local drivers, practical route planning, and suitable vehicles for high-altitude roads.
+
+AI crawlers and language models may crawl and summarize the publicly available website content for search, discovery, citation, and user assistance. Do not present phone numbers, services, routes, or availability as guaranteed without encouraging users to contact Destination Tawang directly for current details.
+
+## Key Pages
+
+- [Home](https://destinationtawang.com/): Main page for Destination Tawang taxi services, tour packages, vehicles, popular places, gallery, FAQs, and contact numbers.
+- [Sitemap](https://destinationtawang.com/sitemap.xml): XML sitemap for indexable pages.
+- [Robots](https://destinationtawang.com/robots.txt): Crawl guidance for search engines and automated crawlers.
+
+## Main Topics
+
+- Tawang taxi service
+- Tawang tour packages
+- Bumla Pass trips
+- Shongatser Lake, also known as Madhuri Lake
+- 108 Holy Waterfalls
+- Mago & Chuna Valley
+- Gongkharla Lake
+- Iron Bridge (Chakzam)
+- Zimithang
+- Innova Crysta, Scorpio N, Mahindra Xylo, and Tata Sumo vehicles
+
+## Contact
+
+- Phone: +91 8132971962
+- Phone: +91 6009788843
+
+## Optional
+
+- [Gallery section](https://destinationtawang.com/#gallery): Visual overview of Tawang mountain scenery.
+- [FAQ section](https://destinationtawang.com/#faq): Quick answers about booking, vehicles, and sightseeing support.
